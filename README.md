@@ -1,2 +1,2 @@
-# testes
+# teste
 Repositório de testes
